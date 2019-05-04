@@ -1,7 +1,7 @@
 # Motor Plates/Panels
 
-What if you have a bot and you just want to mount some motors? Here are a
-selection of plates which you can laser but and mount however works best
+What if you have a bot and you just want to mount some motors? Here is a
+selection of plates which you can laser cut and mount however works best
 for you.
 
 The DXF and SVG files contain what should be the same informtion.
@@ -9,7 +9,7 @@ The DXF and SVG files contain what should be the same informtion.
 Laser cut from 6 mm (1/4") material. Customize to fit your needs by adding
 mounting holes or whatever you need.
 
-# Four pumps in a narror plate
+# Four pumps in a narrow plate.
 
 ![Hello Drinkbot: Four pump motor plate](four_pumps.jpg "Four pump panel")
 
@@ -18,7 +18,7 @@ mounting holes or whatever you need.
 
 ![Hello Drinkbot: Seven pumps offset](seven_pumps_offset.jpg "Seven pumps in an offset pattern")
 
-# eight pumps in an offset pattern. 
+# Eight pumps in an offset pattern. 
 
 ![Hello Drinkbot: Eight pumps offset](eight_pumps_offset.jpg "Eight pumps in an offset pattern")
 
